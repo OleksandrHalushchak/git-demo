@@ -1,5 +1,5 @@
 public class Animal {
-	String name = "Dog";
+	String name = "Rex";
 	int age = 15;
 
 	public void back() {
