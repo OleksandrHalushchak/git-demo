@@ -1,7 +1,7 @@
 public class Animal {
 	String name = "Rex";
 	int age = 15;
-
+	int weight = 13;
 	public void back() {
 		System.out.println("Gav gav");
 	}
@@ -12,6 +12,8 @@ public class Animal {
 	
 		//code
 		//code
-	}	
+	}
 	
+	public void someOtherChanges(){
+	}
 }
