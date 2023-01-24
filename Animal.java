@@ -6,4 +6,12 @@ public class Animal {
 		System.out.println("Gav gav");
 	}
 
+	public void newMethodFromOtherDeveloper(){
+	}
+	public void someOtherMethod(){
+	
+		//code
+		//code
+	}	
+	
 }
